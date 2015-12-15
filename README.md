@@ -6,4 +6,4 @@ https://www.continuum.io/downloads
 
 To open the file type in command line
 `jupyter notebook`
-and browse for "WOSS.ipynb" in opened file
+and browse for "WOSS.ipynb" in opened window
